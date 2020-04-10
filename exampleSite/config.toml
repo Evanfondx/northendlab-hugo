@@ -11,7 +11,7 @@ name = "tools"
 weight = 2
 [[menu.main]]
 URL = "tools"
-name = "tools"
+name = "Download Center"
 weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
