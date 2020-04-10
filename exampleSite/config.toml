@@ -53,7 +53,7 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [params.preloader]
 enable = true
-preloader = ""
+preloader = "images/logo.png"
 [params.search]
 enable = true
 [[params.social]]
