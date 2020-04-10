@@ -27,7 +27,7 @@ logo = "images/logo.png"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Hi, Welcome to the Efunopedia. <br> Let's learn and explore the new things!"
+title = "Hi, Welcome to Efunopedia. <br> Let's learn and explore the new things!"
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = true
