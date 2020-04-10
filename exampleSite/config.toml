@@ -7,7 +7,7 @@ theme = "northendlab-hugo"
 title = "Efunopedia"
 [[menu.footer]]
 URL = "tools"
-name = "tools"
+name = "Download Center"
 weight = 2
 [[menu.main]]
 URL = "tools"
