@@ -27,7 +27,7 @@ logo = "images/logo.png"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Hi, Welcome to the Efunopedia. <br> Let's learn and explore the new things!"
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = true
@@ -57,17 +57,17 @@ preloader = ""
 [params.search]
 enable = true
 [[params.social]]
-icon = "ti-whatsapp"
-link = "http://wa.me/628994983522"
-[[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/evan.fondx"
-[[params.social]]
-icon = "ti-telegram"
-link = "#"
 [[params.social]]
 icon = "ti-instagram"
 link = "https://www.instagram.com/evan51st"
 [[params.social]]
 icon = "ti-linkedin"
+link = "#"
+[[params.social]]
+icon = "ti-whatsapp"
+link = "http://wa.me/628994983522"
+[[params.social]]
+icon = "ti-telegram"
 link = "#"
