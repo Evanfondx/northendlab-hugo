@@ -57,6 +57,9 @@ preloader = ""
 [params.search]
 enable = true
 [[params.social]]
+icon = "ti-telegram"
+link = "#"
+[[params.social]]
 icon = "ti-whatsapp"
 link = "#"
 [[params.social]]
