@@ -61,17 +61,14 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [params.preloader]
 enable = true
-preloader = "Welcome to Efunopedia Web"
+preloader = ""
 [params.search]
 enable = true
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-github"
+icon = "ti-instagram"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
