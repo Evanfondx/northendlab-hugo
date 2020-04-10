@@ -57,14 +57,14 @@ preloader = ""
 [params.search]
 enable = true
 [[params.social]]
-icon = "ti-telegram"
-link = "#"
-[[params.social]]
 icon = "ti-whatsapp"
-link = "#"
+link = "http://wa.me/6289919173981"
 [[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/evan.fondx"
+[[params.social]]
+icon = "ti-telegram"
+link = "#"
 [[params.social]]
 icon = "ti-instagram"
 link = "https://www.instagram.com/evan51st"
